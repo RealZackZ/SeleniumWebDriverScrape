@@ -12,10 +12,10 @@ Code output
 
 Getting 5 Records
 Last Name:	FirstName:	Middle Name(s)
-DOE			JOHN		DOE		 
+DOE		JOHN		DOE		 
  
-Age:				Race:		Sex:		Arrest Date:
-900 YEARS OLD		WHITE		MALE		8/28/2100		 
+Age:			Race:		Sex:		Arrest Date:
+900 YEARS OLD		WHITE		MALE		8/21/2100		 
  
 Charge Status Docket # Bond Amount
 CHARGE - F TRIAL CE-0000000 ANY BOND $100,000,000
