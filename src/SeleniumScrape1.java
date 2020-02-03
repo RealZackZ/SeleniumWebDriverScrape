@@ -17,12 +17,10 @@ DOE		JOHN		DOE
 Age:			Race:		Sex:		Arrest Date:
 900 YEARS OLD		WHITE		MALE		8/21/2100		 
  
-Charge Status Docket # Bond Amount
-CHARGE - F TRIAL CE-0000000 ANY BOND $100,000,000
 
 It took: 0 day(s), 0h, 0min, 8.97s
 Average age = 53
- */
+*/
 
 
 	public static void main(String[] args) throws InterruptedException {
@@ -31,7 +29,7 @@ Average age = 53
 		
 		System.setProperty("webdriver.chrome.driver", "chromedriver");
 		WebDriver driver = new ChromeDriver();
-		driver.get("http://s2c.forsythsheriff.org/jailinmates.aspx");
+		driver.get("");
 
 		System.out.println(driver.getTitle());
 		
